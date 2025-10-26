@@ -1,16 +1,30 @@
-# travelapp
+# TravelApp
 
-A new Flutter project.
+TravelApp adalah aplikasi Flutter sederhana yang dirancang untuk menampilkan destinasi wisata populer dengan tampilan modern dan fitur login sederhana.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Fitur Utama
+- Halaman Login dengan validasi sederhana  
+- Halaman Home berisi daftar tempat wisata  
+- Desain menggunakan Material UI modern**
+- Mendukung gambar dari `assets`
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Cara Menjalankan
+Pastikan sudah menginstal Flutter di perangkatmu.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+---
+![login](https://github.com/user-attachments/assets/43122d11-b4d6-407a-9e5a-29614c2383ae)
+![hompepage1](https://github.com/user-attachments/assets/d358cb6e-0420-443d-b536-8f6490a4db31)
+![hompepage2](https://github.com/user-attachments/assets/55dce3ca-7fac-4e13-bb99-da0041847cd7)
+
+## Screenshot
+
+
+```bash
+git clone https://github.com/shitfckdm/flutter-travelapp.git
+cd flutter-travelapp
+flutter pub get
+flutter run
